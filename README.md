@@ -1,4 +1,4 @@
-# 🧾 Integrated Receipt reading system using OCR and NLP techniques
+# Integrated Receipt reading system using OCR and NLP techniques
 
 An integrated pipeline for **OCR + Information Extraction** using a combination of traditional computer vision (OpenCV), neural OCR (EasyOCR), SuryaOCR and large language models (NuMind’s NuExtract + fine-tuned Gemma). Designed for robust parsing of **printed receipts** and structured data extraction.
 
