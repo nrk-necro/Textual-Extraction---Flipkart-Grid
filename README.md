@@ -4,6 +4,8 @@ An integrated pipeline for **OCR + Information Extraction** using a combination 
 
 This is a part of a bigger project for warehouse automation, developed following the Problem Statement for FLipkart Grid 2024
 
+![image](https://github.com/user-attachments/assets/feb22e8f-ca6d-4510-88c9-69d395d451f7)
+
 ---
 
 ## Overview
@@ -17,7 +19,6 @@ This project aims to:
 - Build a modular architecture to scale with real-world OCR + NLP applications
 
 ---
-![image](https://github.com/user-attachments/assets/feb22e8f-ca6d-4510-88c9-69d395d451f7)
 
 
 ## Tech Stack
@@ -29,6 +30,8 @@ This project aims to:
 | Entity Extraction | NuMind NuExtract-tiny, Fine-tuned Gemma  2B |
 
 ---
+![image](https://github.com/user-attachments/assets/f2fd9d9a-b676-4bfc-b8b4-4c2862f1a17a)
+
 
 ## Project Structure
 
