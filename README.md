@@ -15,6 +15,8 @@ This project aims to:
 - Build a modular architecture to scale with real-world OCR + NLP applications
 
 ---
+![image](https://github.com/user-attachments/assets/feb22e8f-ca6d-4510-88c9-69d395d451f7)
+
 
 ## Tech Stack
 
