@@ -2,6 +2,8 @@
 
 An integrated pipeline for **OCR + Information Extraction** using a combination of traditional computer vision (OpenCV), neural OCR (EasyOCR), SuryaOCR and large language models (NuMind’s NuExtract + fine-tuned Gemma). Designed for robust parsing of **printed receipts** and structured data extraction.
 
+This is a part of a bigger project for warehouse automation, developed following the Problem Statement for FLipkart Grid 2024
+
 ---
 
 ## Overview
